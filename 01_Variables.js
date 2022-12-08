@@ -1,3 +1,5 @@
+// Variables and Data Types in JS
+
 //command to print
 console.log("Hello JavaScript!!")
 
